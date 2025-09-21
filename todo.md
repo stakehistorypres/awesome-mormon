@@ -1,0 +1,4 @@
+- add back to top: https://raw.githubusercontent.com/awesome-selfhosted/awesome-selfhosted/refs/heads/master/README.md
+- tag each item with `mediaType`
+- tag each item with `contentRating`: `salacious`, `disputed`, etc
+- implement link checker: https://raw.githubusercontent.com/awesome-selfhosted/awesome-selfhosted/refs/heads/master/README.md
