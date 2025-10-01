@@ -99,13 +99,14 @@ Things relating to Mormon History in Utah and elsewhere in western North America
 - [Endowment secrets exposed in US Federal Court](https://archive.org/details/insidemormonism00distgoog/page/n96/mode/2up) - US gov feared Mormons swore allegiance against them in temples and examined their religion in court
 - [Temple Names Schedule](https://fullerconsideration.com/TempleNameOracle/) – temple goers are renamed, but it's based on day of the month
 
-## The Second Anointing
+## Second Anointing
 **[`^        back to top        ^`](#awesome-mormon)**
 
 The inner circle ritual that is so secret most members do not know about it
 
 - [modern day account](https://www.exmormon.org/mormon/mormon508.htm)
 - [modern day account interview](https://www.mormonstories.org/received-the-second-anointing/)
+- [wilford woodruff journals](#) - lists the people that got their second anointing
 
 ## Pop Culture
 
@@ -122,7 +123,13 @@ The inner circle ritual that is so secret most members do not know about it
 
 - [Under the Banner of Heaven](https://www.imdb.com/title/tt1998372/) - Hulu drama series based off the Lafferty Murder
 - [Murder among the Mormons](https://www.imdb.com/title/tt13987620) – Netflix docuseries on the SLC Bombings and the Salamander Letter
+- [Keep Sweet, Pray, and Obey](https://www.imdb.com/title/tt20560404) – Netflix docuseries on the FLDS Church and Warren Jeffs
+
+### Appearances
+
 - [South Park Joseph Smith Episode](https://www.youtube.com/watch?v=RaRsv1xNT3A) – famous depiction of Mormonism's foundation story
+- [Deadly Devotion S3.E4: Murderous Mormons](https://www.imdb.com/title/tt4969068/) – cult documentary series examines polygamist group
+- [Evil Lives Here S3.E9: Blood Atonement](https://www.imdb.com/title/tt8149996/)
 
 ### Social Media
 **[`^        back to top        ^`](#awesome-mormon)**
@@ -138,6 +145,7 @@ The inner circle ritual that is so secret most members do not know about it
 - [Natasha Helfer Podcast](https://www.natashahelfer.com/the-natasha-helfer-podcast) "Nuanced" views and later "sex, religion, and everything in between"
 - [Alyssa Grenfell](https://www.mormontruths.com/) – exmormon youtuber who is well known for wearing temple clothing in a NYT Exposé
 - [Radio Free Mormon](https://radiofreemormon.org/) – "tackles the difficult subjects in Mormonism"
+- [year of polygamy](https://www.yearofpolygamy.com/) – Lindsay Hansen Park explores polygamy including interviewing members of other Mormonism movement churches
 
 ## Polygamy
 **[`^        back to top        ^`](#awesome-mormon)**
