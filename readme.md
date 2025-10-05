@@ -1,8 +1,10 @@
 # awesome-mormon [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> a list of Mormon-related content with a focus on secular material or paradoxical faith-promoting material.
+In the spirit of Awesome List, here's a list of Mormon-related content with a focus on secular material or paradoxical faith-promoting material.
 
-Warning: Religious topics are inherently philosophical and push on personal identities. You may find content here that
+Are Mormons new to you? Here's a [3 min rundown](./Mormonism-in-3-min.md) and the [wiki](https://en.wikipedia.org/wiki/Mormons).
+
+> Warning: Religious topics are inherently philosophical and push on personal identities. You may find content here that
 is not faith-promoting (a.k.a. faith destroying). Faith promoting sources are welcome if they are historically accurate
 or appropriately characterized (i.e. "LDS church admits Book of Abraham is not a translation" links to the Gospel Topics
 Essay on the Book of Abraham)
@@ -171,7 +173,7 @@ The inner circle ritual that is so secret most members do not know about it
 - [podcast: mormonish](http://mormonishpodcast.org/) - "Living a Joyful Life on the Other Side of Mormonism"
 - [podcast: growing up in polygamy](https://www.youtube.com/@GrowingUpinPolygamy/videos) – ex FLDS member on Mormonism, polygamy, and cults
 - [podcast: Mormon Infographics](https://www.youtube.com/@Mormoninfographics/videos) – youtube channel best known for short clips reenacting Brigham Young's Discourses
-- [anthology: lds film productions](https://www.youtube.com/@HardtoFindMormonVideos) – youtube channel dedicated to hard to find Mormon videos
+- [anthology: LDS film productions](https://www.youtube.com/@HardtoFindMormonVideos) – youtube channel dedicated to hard to find Mormon videos
 
 ## Social Media
 **[`^        back to top        ^`](#awesome-mormon)**
