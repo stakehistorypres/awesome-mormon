@@ -5,19 +5,13 @@ Please note that this project is released with a
 project you agree to abide by its terms.
 
 ---
+To suggest a change, [edit](https://github.com/stakehistorypres/awesome-mormon/edit/main/readme.md) any of the files. You will likely need to make a fork, which is just a copy of this repo in your own account.
 
-Ensure your pull request adheres to the following guidelines:
+Once you are ready, create a pull request so the change can be reviewed and then accepted.
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+## Updating your Pull Request
 
-Thank you for your suggestions!
-
-
-## Updating your PR
-
-A lot of times, making a PR adhere to the standards above can be difficult.
+A lot of times, making a Pull Request (PR) adhere to the standards above can be difficult.
 If the maintainers notice anything that we'd like changed, we'll ask you to
 edit your PR before we merge it. There's no need to open a new PR, just edit
 the existing one. If you're not sure how to do that,
