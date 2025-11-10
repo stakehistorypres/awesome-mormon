@@ -45,6 +45,8 @@ These links are critical of truth and historical claims, i.e. they question or p
 - [anthology: The Joseph Smith Papers](https://www.josephsmithpapers.org/) - scholarly attempts to document all of Joseph Smith's literary work `faithful`
 - [video: compilation of "spiritual experiences" across religions](https://www.youtube.com/watch?v=ULGCZwu6ecA)
 - [anthology: Journal of Discourses](https://jod.mrm.org/4/1/) – contains speeches from Church leaders, despite sometimes being dropped from canon. `faithful`
+- [anthology: historical general conferences](https://historicalgeneralconferences.weebly.com)
+- [anthology: journal of discourses](https://hornalofdiscourses.com)
 - [website: Church History Library](https://history.churchofjesuschrist.org/landing/church-history-library) – provides public access to approved church and genealogy records. `faithful`
 
 ## Fringe Groups
@@ -141,6 +143,7 @@ The rituals of the temple are considered secret and are unique to Mormonism.
 - [website: Temple Names Schedule](https://fullerconsideration.com/TempleNameOracle/) – temple goers are renamed, but it's based on day of the month `secret`
 - [video: 1984 Temple Audio](https://www.youtube.com/watch?v=nvGYH_S0DgA) – 7 part audio recording with intro by recorders
 - Freemasonry similarities
+- [AUB Endowment Ceremony recreation (biglove episode)](https://www.youtube.com/watch?v=TLGRqALg8Q4) – the signs and tokens are, understandably, the same as LDS Church `secret`
 
 ## Second Anointing
 **[`^        back to top        ^`](#awesome-mormon)**
@@ -251,6 +254,7 @@ Tools for understanding Mormonism and the Mormon (and Postmormon) population.
 - [website: korihor scripture annotations](https://korihor.info/) – crowd–sourced scripture annotations. both faithful and critical takes are allowed
 - [website: general conference corpus](https://www.lds-general-conference.org/) – a searchable, linguistic-friendly database of ALL general conference talks - `faithful`
 - [website: quitmormon.com](https://quitmormon.com/) – LDS Church resignation helper
+- [website: todayinmormonhistory.com](http://todayinmormonhistory.com) – interesting facts about mormonism on a given calendar date
 
 ## Contribute
 
