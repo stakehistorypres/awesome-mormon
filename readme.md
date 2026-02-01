@@ -31,7 +31,7 @@ Essay on the Book of Abraham)
 - [Widgets](#widgets)
 
 ## Critiques
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 These links are critical of truth and historical claims, i.e. they question or point out incongruities, falsehoods, and misrepresentations.
 
@@ -40,7 +40,7 @@ These links are critical of truth and historical claims, i.e. they question or p
 - [video: BH Roberts discovers problematic doctrine and history](https://wheatandtares.org/2022/10/03/100th-anniversary-of-secret-1922-mormon-meetings/) 1922 secret church leadership meetings
 
 ## LDS Doctrine and Church History
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 - [anthology: The Joseph Smith Papers](https://www.josephsmithpapers.org/) - scholarly attempts to document all of Joseph Smith's literary work `faithful`
 - [video: compilation of "spiritual experiences" across religions](https://www.youtube.com/watch?v=ULGCZwu6ecA)
@@ -52,7 +52,7 @@ These links are critical of truth and historical claims, i.e. they question or p
 ## Fringe Groups
 Other churches within Mormonism, and other groups related to it.
 
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 - [website: Kingston Clan: private school school](https://ensignlearningcenter.org)
 - [article: RLDS: Myths about RLDS and LDS relations](https://www.mormonmatters.org/103/)
@@ -62,14 +62,14 @@ Other churches within Mormonism, and other groups related to it.
 - [podcast: FLDS](https://www.youtube.com/watch?v=3xpThXnPI2A) - interview with a "Lost Boy" as he takes viewers through the polygamous town
 
 ## BYU
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 a.k.a. Brigham Young University (and other LDS schools)
 
 - [image: BYU Tunnels Map](https://imgur.com/gallery/HBiMb5c)
 
 ## Joseph Smith
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 Joseph Smith was the founder of the LDS Movement.
 
@@ -77,14 +77,14 @@ Joseph Smith was the founder of the LDS Movement.
 - [journal: claims he is a second Mohammed, thus "Joseph Smith or the Sword"](https://ia802908.us.archive.org/31/items/HistoryOfTheChurchOfJesusChristOfLatter-daySaints1902-Volume3/history_of_the_church_vol_3.pdf) – History of the Church v3 ch 12 p 167 `faithful`
 
 ## Brigham Young
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 The successor to Joseph Smith according to the largest denomination. Led the followers to what is now Utah, United States.
 
 - [speech: there are men on the moon](https://contentdm.lib.byu.edu/digital/collection/JournalOfDiscourses3/id/4872) `faithful`
 
 ## The Book of Abraham
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 This is a popular topic because included in the canon of Mormonism is an actual facsimile of an Egyptian text, with the claim being Joseph Smith translated that into what is now the Book of Abraham.
 
@@ -92,7 +92,7 @@ This is a popular topic because included in the canon of Mormonism is an actual 
 - [article: LDS Church admits translation is incorrect](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/translation-and-historicity-of-the-book-of-abraham?lang=eng) – part of the Gospel Topics Essays `faithful`
 
 ## Utah History & Settlement Missions
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 Things relating to Mormon History in Utah and elsewhere in western North America
 
@@ -101,7 +101,7 @@ Things relating to Mormon History in Utah and elsewhere in western North America
 - [video: song by critic in 1850s](https://www.youtube.com/watch?v=SI7rmBWJ-Gs) – by George Hicks, member, who questioned BY about MMM
 
 ## Church Sanctioned Violence
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 This is a popular topic because the concept of Blood Atonement (a.k.a. capital punishment) was taught in the early church as it found itself in a government position.
 
@@ -133,7 +133,7 @@ The Mountain Meadows Massacre is one of the worst acts of domestic terrorism in 
 - [video: Talk by Blood of the Prophets author](#https://youtu.be/VSv_pDIpAd0?si=WXlQqhmdafWIcEy9) – Will Bagley
 
 ## Temple
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 The rituals of the temple are considered secret and are unique to Mormonism.
 
@@ -146,7 +146,7 @@ The rituals of the temple are considered secret and are unique to Mormonism.
 - [AUB Endowment Ceremony recreation (biglove episode)](https://www.youtube.com/watch?v=TLGRqALg8Q4) – the signs and tokens are, understandably, the same as LDS Church `secret`
 
 ## Second Anointing
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 The inner circle ritual that is so secret most members do not know about it
 
@@ -155,7 +155,7 @@ The inner circle ritual that is so secret most members do not know about it
 - [journal: Wilford Woodruff journals](https://wilfordwoodruffpapers.org/) - lists the people that got their second anointing `secret` `faithful`
 
 ## Pop Culture
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 - [film: A Victim of the Mormons](https://en.wikipedia.org/wiki/A_Victim_of_the_Mormons) – first "anti-mormon film." Danish Silent Drama
 - [film: September Dawn](https://www.imdb.com/title/tt0473700) 2000s drama based of the Mountain Meadows Massacre
@@ -179,13 +179,13 @@ The inner circle ritual that is so secret most members do not know about it
 - [anthology: LDS film productions](https://www.youtube.com/@HardtoFindMormonVideos) – youtube channel dedicated to hard to find Mormon videos
 
 ## Social Media
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 - [website: r/exmormon](https://reddit.com/r/exmormon) - topics include anything Mormon related, venting, cults, memes `r-rated`
 - [website: r/mormon](https://reddit.com/r/mormon) - rules against faith attacking rhetoric
 
 ## Polygamy
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 Joseph Smith instituted the practice as doctrine publicly in 1843.
 
@@ -199,7 +199,7 @@ Joseph Smith instituted the practice as doctrine publicly in 1843.
 - [video: ex-polygamist gives tour of Colorado City](https://www.youtube.com/watch?v=3xpThXnPI2A) 
 
 ## Leaks and Whistleblowing
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 - [image: photo of church record](https://qph.cf2.quoracdn.net/main-qimg-4a4a751f512a81947a94392ffaf6a8f3-lq) - basic record information
 - [video: Confidential Records Department Employee Interview](https://www.mormonstories.org/mormon-church-employee-speaks-out/) - confessions are sent to headquarters
@@ -216,13 +216,13 @@ Joseph Smith instituted the practice as doctrine publicly in 1843.
 - [article: Henry B Eyring's Paystub](https://wasmormon.org/analyzing-henry-b-eyrings-paystub) – an article about how church leadership gets paid with a leaked paystub
 
 ## Journals and Symposia
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 - [website: Sunstone Education Foundation](https://sunstone.org/beginners-guide-to-sunstone/) – podcasts, magazine, and events `truth claim`
 - [website: Dialogue](https://www.dialoguejournal.com/) `truth claim`
 
 ## Other Resources
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 - [website: Utah Lighthouse Ministry](utlm.org) – founded by Jerald and Sandra Tanner. 20th century source for documenting problematic truth claims
 - [website: Mormon Think](http://www.mormonthink.com/) – compares truth claims: critiques vs apologetics `truth claim`
@@ -234,7 +234,7 @@ Joseph Smith instituted the practice as doctrine publicly in 1843.
 - [blog: main street plaza](https://mainstreetplaza.com/) – blog, they also host the Brodie Awards
 
 ## Modern Day Scandals
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 - [website: sex abuse scandal tracking](https://floodlit.org/)
 - [article: Brazilians should give up their gold teeth](https://www.thechurchnews.com/1998/5/9/23250717/be-loyal-worthy-to-enter-temple-members-urged)
@@ -245,7 +245,7 @@ Joseph Smith instituted the practice as doctrine publicly in 1843.
 - [book: Moroni and the Swastika](https://www.oupress.com/9780806146683/moroni-and-the-swastika/) – about Mormons' methods of collaboration with the Nazis to avoid persecution
 
 ## Widgets
-**[`^        back to top        ^`](#awesome-mormon)**
+**[`^        back to top        ^`](#awesome-mormon-)**
 
 Tools for understanding Mormonism and the Mormon (and Postmormon) population.
 
