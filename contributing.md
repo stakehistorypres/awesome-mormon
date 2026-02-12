@@ -31,6 +31,7 @@ example:
 - `book`
 - `article` (news, online, periodical, court proceeding)
 - `journal`
+- `letter`
 - `speech`
 - `anthology`
 - `wiki` (wiki only pages. only add these links for broad overviews, like characters)

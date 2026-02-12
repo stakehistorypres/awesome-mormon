@@ -1,2 +1,0 @@
-- tag each item with `contentRating`: `salacious`, `disputed`, etc
-- implement link checker: https://raw.githubusercontent.com/awesome-selfhosted/awesome-selfhosted/refs/heads/master/README.md

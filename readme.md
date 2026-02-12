@@ -75,6 +75,8 @@ Joseph Smith was the founder of the LDS Movement.
 
 - [speech: claims he did more than Jesus Christ](https://byustudies.byu.edu/online-book/history-of-the-church-volume-6/volume-6-chapter-19) – History of the Church v6 ch 19 p 408 `faithful`
 - [journal: claims he is a second Mohammed, thus "Joseph Smith or the Sword"](https://ia802908.us.archive.org/31/items/HistoryOfTheChurchOfJesusChristOfLatter-daySaints1902-Volume3/history_of_the_church_vol_3.pdf) – History of the Church v3 ch 12 p 167 `faithful`
+- [journal: preaches moral relativism](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-d-1-1-august-1842-1-july-1843/284) `faithful`
+- [anthology: Young's speeches on race and slavery](https://exhibits.lib.utah.edu/s/this-abominable-slavery/page/an-act-in-relation-to-service)
 
 ## Brigham Young
 **[`^        back to top        ^`](#awesome-mormon-)**
@@ -82,6 +84,8 @@ Joseph Smith was the founder of the LDS Movement.
 The successor to Joseph Smith according to the largest denomination. Led the followers to what is now Utah, United States.
 
 - [speech: there are men on the moon](https://contentdm.lib.byu.edu/digital/collection/JournalOfDiscourses3/id/4872) `faithful`
+- [article: Young promotes slavery](https://attheu.utah.edu/facultystaff/1852-legislative-session-this-abominable-slavery/) – Slavery was practiced in Utah
+- [speech: Young states capital punishment for interracial marriage](https://jod.mrm.org/10/104#110) – `faithful`
 
 ## The Book of Abraham
 **[`^        back to top        ^`](#awesome-mormon-)**
@@ -90,6 +94,7 @@ This is a popular topic because included in the canon of Mormonism is an actual 
 
 - [journal: Smith states he is translating (not interpreting) it](https://www.josephsmithpapers.org/paper-summary/grammar-and-alphabet-of-the-egyptian-language-circa-july-circa-november-1835/179#historical-intro) `faithful`
 - [article: LDS Church admits translation is incorrect](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/translation-and-historicity-of-the-book-of-abraham?lang=eng) – part of the Gospel Topics Essays `faithful`
+- [article: U of Chicago academic response to LDS Essay](https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/Research_Archives/Translation%20and%20Historicity%20of%20the%20Book%20of%20Abraham%20final-2.pdf) `truth claim`
 
 ## Utah History & Settlement Missions
 **[`^        back to top        ^`](#awesome-mormon-)**
@@ -108,11 +113,12 @@ This is a popular topic because the concept of Blood Atonement (a.k.a. capital p
 - [article: Assassination account - Sacramento Newspaper 1875](https://cdnc.ucr.edu/?a=d&d=SDU18751231.2.5&e=-------en--20--1--txt-txIN--------1)
 - [book: Reminiscences of Early Utah](https://archive.org/details/reminiscencesofe00baskrich) – Memoir of R N Baskin, U.S. Territorial Judge who oversaw Utah Territory and struggled to implement U.S. Law
 - [anthology: Missouri State documents on Mormons](https://www.sos.mo.gov/archives/resources/findingaids/rg005-01) – citizens state that Mormons harassed locals (before Extermination Order)
+- [article: Young orders extermination of the Native Americans](https://issuu.com/utah10/docs/uhq_volume46_1978_number3/12) – this included the Timpanogos people
+- [speech: Young states Blood Atonement for leaving the church](https://jod.mrm.org/4/215#220)
 - Springville potter murders
 - Danites
 - Nauvoo Legion
 - Black Hawk War
-- Brigham Young exterminates Native Americans
 - Blood Atonement
 - Robinson Murder
 - Porter Rockwell
@@ -189,6 +195,7 @@ The inner circle ritual that is so secret most members do not know about it
 
 Joseph Smith instituted the practice as doctrine publicly in 1843.
 
+- [website: Joseph Smith Polygamy Infographic](https://web.archive.org/web/20240415022613/http://www.mormoninfographics.com/)
 - [religious text: The Peace Maker](https://www.olivercowdery.com/smithhome/1840s/1842Udny.htm) – Joseph Smith's revelation on polygamy (`faithful` as claimed by the FLDS)
 - [website: Prophet John Taylor: God will never take polygamy away](https://mormonr.org/qnas/vFgD6f/john_taylors_1886_revelation) – `truth claim`
 - [website: Timeline of Polygamy in the LDS Movement](https://exploringmormonism.com/polygamy-timeline/) 
@@ -197,6 +204,7 @@ Joseph Smith instituted the practice as doctrine publicly in 1843.
 - [article: 1864 op ed claiming Heber Kimball wanted Gentile men dead for their wives](https://truthandgrace.com/1864UnionVedette0906.htm)
 - [podcast: year of polygamy](https://www.yearofpolygamy.com/) – Lindsay Hansen Park explores polygamy and interviews members of polygamous groups `truth claim`
 - [video: ex-polygamist gives tour of Colorado City](https://www.youtube.com/watch?v=3xpThXnPI2A) 
+- [letter: Smith compels wives to keep polygamy secret from Emma](https://www.josephsmithpapers.org/paper-summary/letter-to-newel-k-elizabeth-ann-smith-and-sarah-ann-whitney-18-august-1842/1) `faithful`
 
 ## Leaks and Whistleblowing
 **[`^        back to top        ^`](#awesome-mormon-)**
@@ -206,6 +214,7 @@ Joseph Smith instituted the practice as doctrine publicly in 1843.
 - [video: 60 Minutes interview exposing LDS Tax fraud](https://www.youtube.com/watch?v=k3_Fhq7sEHo)
 - [website: LDS headquarters tech wiki on how to obfuscate tithing amounts](https://web.archive.org/web/20201112035301/https://tech.churchofjesuschrist.org/wiki/Donations_to_Church_Headquarters)
 - [website: MormonLeaks](https://www.truthandtransparency.org/) – Truth and Transparency now hosts these leaks `truth claim`
+- [website: LDS sex abuse scandal tracking](https://floodlit.org/)
 
 ### Wealth and Hoarding
 - [website: The Widow's Mite Report](https://thewidowsmite.org/) – "analysis on the state of wealth" of the LDS church
@@ -232,11 +241,11 @@ Joseph Smith instituted the practice as doctrine publicly in 1843.
 - [blog: signs and tokens](https://tokensandsigns.org/) - blog about leaving Mormonism
 - [speech: McKay on sexuality during honeymoon](https://web.archive.org/web/20220415034912/https://www.churchofjesuschrist.org/study/manual/a-parents-guide/chapter-6?lang=eng) – LDS Manual "A Parents Guide" via archive.org. He recommends "good humor" on wedding night and various other tips
 - [blog: main street plaza](https://mainstreetplaza.com/) – blog, they also host the Brodie Awards
+- [website: stuff you missed in Sunday school](https://missedinsunday.com/) – list of problematic church leader quotes
 
 ## Modern Day Scandals
 **[`^        back to top        ^`](#awesome-mormon-)**
 
-- [website: sex abuse scandal tracking](https://floodlit.org/)
 - [article: Brazilians should give up their gold teeth](https://www.thechurchnews.com/1998/5/9/23250717/be-loyal-worthy-to-enter-temple-members-urged)
 - [video: General Conference censorship](https://www.youtube.com/watch?v=7yq7-juu6uQ) `truth claim`
 - [article: Sex abuse scandal perpetrated by prophet's family](https://dailycaller.com/2018/10/04/mormon-church-touching-parties-lawsuit/)
