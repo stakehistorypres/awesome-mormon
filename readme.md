@@ -143,7 +143,7 @@ The Mountain Meadows Massacre is one of the worst acts of domestic terrorism in 
 
 The rituals of the temple are considered secret and are unique to Mormonism.
 
-_ [video: 2023 endowment video](https://templevideo.org) full film and info about different versions. `secret`
+- [video: 2023 endowment video](https://templevideo.org) full film and info about different versions. `secret`
 - [website: endowment script](https://web.archive.org/web/20250710105113/http://www.ldsendowment.org/) `secret`. names of signs and tokens omitted
 - [book: depicting knife use in 1904 Endowment ceremony](https://archive.org/details/polygamyormyster00beadrich/mode/2up) see page 394 `secret`
 - [article: Endowment secrets exposed in US Federal Court](https://archive.org/details/insidemormonism00distgoog/page/n96/mode/2up) - US gov feared Mormons swore allegiance against them in temples and examined their religion in court `secret`
